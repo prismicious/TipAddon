@@ -1,0 +1,7 @@
+## Interface: 80200
+## Title: Tip Addon!
+## Author: Prisimo
+## Version: 1.0
+## SavedVariables: totalGuld
+TipAddon.lua
+Bindings.xml

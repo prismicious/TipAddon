@@ -1,0 +1,8 @@
+<Bindings> 
+
+<Binding name="Whisper tips">
+	MessageAverage();
+	</Binding>
+
+
+</Bindings>
